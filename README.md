@@ -3,7 +3,7 @@
 Some python coding practice creating the game Tic Tac Toe. The code was created as a practice during a coding bootcamp together with [@UAsavage](https://github.com/UAsavage).<br>
 Go and give it a twirl!<br>
 <br>
-Other than Python you need nothing to try it out! Just run the `tic_tac_to.py` file.
+Other than Python you need nothing to try it out! Just run the [tic_tac_to.py](tic_tac_toe.py) file.
 
 ```bash
 pyenv local 3.11.3
